@@ -1,0 +1,22 @@
+Try Another Translation
+English Patch for Madoka Magica Try Another Story
+Original work by Kazekage Nanaichi
+English translation partially based off of Dangan2020's
+translated playthrough of Try Another Story
+
+English translation patch for Madoka Magica Try Another Story
+
+Version 0.1
+
+(MEGA Link to Events & Maps: https://mega.nz/file/pXwmGKZI#Jh-xXtfE3C9VALWJ5swdMoLD0Huo5OmhSyVVhsknt6s)
+
+-Initial Release
+
+-Primary focused on translating various combat elements such as skills, items, etc.
+
+-Most of story for first few days translated
+
+To Install:
+Copy and paste all patch files into main folder of Try Another Story
+and overwrite all files when asked. That's it.
+
