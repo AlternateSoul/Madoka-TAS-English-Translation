@@ -1,10 +1,12 @@
 # Madoka-TAS-English-Translation
 English translation patch for Madoka Magica Try Another Story
 
-Version 0.1
+Version 0.1.1
 
--Initial Release
+(MEGA Link to Events & Maps: https://mega.nz/file/xORlQDbb#H__n6xUyiBqTVT4L0Yq3o_raFZo60EOUaq48iNd7Kt0)
 
--Primary focused on translating various combat elements such as skills, items, etc.
+-Translated Skill Descriptions and Unique Items for Suzuka,Yuri, and Ruki
 
--Most of story for first few days translated
+-All primary dialogue and events before the 25th should now be translated
+
+-Various bits of grammar and spelling mistakes corrected
